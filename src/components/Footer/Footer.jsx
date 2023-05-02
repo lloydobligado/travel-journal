@@ -1,9 +1,12 @@
 import React from 'react'
 import './Footer.scss'
 
+const currentDate = new Date();
+const currentYear = currentDate.getFullYear();
+
 const Footer = () => {
   return (
-    <footer className="footer"><small>@ 2023 Obligado Development. All right reserved.</small></footer>
+    <footer className="footer"><small>@ {currentYear} Obligado Development. All right reserved.</small></footer>
   )
 }
 
