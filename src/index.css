@@ -1,0 +1,23 @@
+/* Resetting margins, padding, and border to zero */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* Setting box-sizing property to border-box for all elements */
+* {
+  box-sizing: border-box;
+}
+
+/* Setting a default font size and font family */
+body {
+  font-size: 16px;
+  font-family: 'Inter', sans-serif;
+}
+
+.Main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 0  50px;
+}

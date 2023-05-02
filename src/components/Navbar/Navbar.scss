@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 100%;
+    background-color: #F55A5A;
+
+    &__icon {
+        height: 24px;
+        width: 24px;
+        margin-right: 7px;
+    }
+
+    &__title {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14.4608px;
+        line-height: 18px;
+        letter-spacing: -0.075em;
+
+        color: #FFFFFF;
+    }
+}
