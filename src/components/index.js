@@ -1,8 +1,8 @@
 const locations = [
     {
         id: 1,
-        img: './src/assets/images/London.jpg',
-        pin: './src/assets/icons/location.svg',
+        img: '../assets/images/London.jpg',
+        pin: '../assets/icons/location.svg',
         country: "LONDON",
         link: "https://www.google.com/maps/place/London,+UK/@51.528607,-0.4312497,10z/data=!3m1!4b1!4m6!3m5!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862!16zL20vMDRqcGw",
         destination: "London Bridge",
@@ -14,8 +14,8 @@ const locations = [
     },
     {
         id: 2,
-        img: './src/assets/images/Miyajima-Itsukushima-Island-Japan.jpg',
-        pin: './src/assets/icons/location.svg',
+        img: '../assets/images/Miyajima-Itsukushima-Island-Japan.jpg',
+        pin: '../assets/icons/location.svg',
         country: "JAPAN",
         link: "https://www.google.com/maps/place/Japan/@31.6629422,115.6465795,4z/data=!3m1!4b1!4m6!3m5!1s0x34674e0fd77f192f:0xf54275d47c665244!8m2!3d36.204824!4d138.252924!16zL20vMDNfM2Q",
         destination: "Miyajima Itsukushima",
@@ -27,8 +27,8 @@ const locations = [
     },
     {
         id: 3,
-        img: './src/assets/images/El-Nido-Philippines.jpg',
-        pin: './src/assets/icons/location.svg',
+        img: '../assets/images/El-Nido-Philippines.jpg',
+        pin: '../assets/icons/location.svg',
         country: "PHILIPPINES",
         link: "https://www.google.com/maps/place/El+Nido,+Palawan/@11.2048334,118.8150154,10z/data=!3m1!4b1!4m6!3m5!1s0x33b65515ef5c9e0f:0xfc4e665b599b0455!8m2!3d11.1953602!4d119.4189097!16zL20vMDJodjVr",
         destination: "El Nido Palawan",
@@ -40,8 +40,8 @@ const locations = [
     },
     {
         id: 4,
-        img: './src/assets/images/Lisboa-Portugal-The-city-of-poets-and-old-trams.jpg',
-        pin: './src/assets/icons/location.svg',
+        img: '../assets/images/Lisboa-Portugal-The-city-of-poets-and-old-trams.jpg',
+        pin: '../assets/icons/location.svg',
         country: "PORTUGAL",
         link: "https://www.google.com/maps/place/Lisbon,+Portugal/@38.7437316,-9.2426055,12z/data=!3m1!4b1!4m6!3m5!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366!16zL20vMDRsbGI",
         destination: "Lisboa Portugal",
@@ -53,8 +53,8 @@ const locations = [
     },
     {
         id: 5,
-        img: './src/assets/images/Algarve-Portugal.jpg',
-        pin: './src/assets/icons/location.svg',
+        img: '../assets/images/Algarve-Portugal.jpg',
+        pin: '../assets/icons/location.svg',
         country: "PORTUGAL",
         link: "https://www.google.com/maps/place/Faro+District,+Portugal/@37.2435917,-8.8547298,9z/data=!3m1!4b1!4m6!3m5!1s0xd0554ee55d1cfef:0x80e2652e12910e45!8m2!3d37.0179538!4d-7.930834!16zL20vMDFnZzg0",
         destination: "Algarve Portugal",
@@ -66,8 +66,8 @@ const locations = [
     },
     {
         id: 6,
-        img: './src/assets/images/La-Toscana-being-inside-a-movie.jpg',
-        pin: './src/assets/icons/location.svg',
+        img: '../assets/images/La-Toscana-being-inside-a-movie.jpg',
+        pin: '../assets/icons/location.svg',
         country: "ITALY",
         link: "https://www.google.com/maps/place/Tuscany,+Italy/@43.3287892,8.3880549,7z/data=!3m1!4b1!4m6!3m5!1s0x12d42b531080347b:0xbac6c3ba5b2059ab!8m2!3d43.7710513!4d11.2486208!16zL20vMDdrZzM",
         destination: "La Toscana",
