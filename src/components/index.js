@@ -1,6 +1,6 @@
 import Pin from "../assets/icons/location.svg";
 import London from "../assets/images/London.jpg";
-import Japan from "../../assets/images/Miyajima-Itsukushima-Island-Japan.jpg";
+import Japan from "../../assets/images/MiyajimaItsukushimaIslandJapan.jpg";
 import Philippines from "../assets/images/London.jpg";
 import Lisbon from "../../assets/images/Lisboa-Portugal-The-city-of-poets-and-old-trams.jpg";
 import Algarve from "../../assets/images/Algarve-Portugal.jpg";
