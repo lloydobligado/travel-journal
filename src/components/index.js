@@ -1,10 +1,10 @@
 import Pin from "../assets/icons/location.svg";
 import London from "../assets/images/London.jpg";
-import Japan from "../../assets/images/MiyajimaItsukushimaIslandJapan.jpg";
-import Philippines from "../assets/images/London.jpg";
-import Lisbon from "../../assets/images/Lisboa-Portugal-The-city-of-poets-and-old-trams.jpg";
-import Algarve from "../../assets/images/Algarve-Portugal.jpg";
-import Italy from "../../assets/images/La-Toscana-being-inside-a-movie.jpg";
+import Japan from "../assets/images/Japan.jpg";
+import Philippines from "../assets/images/Philippines.jpg";
+import Lisbon from "../assets/images/Lisbon.jpg";
+import Algarve from "../assets/images/Algarve.jpg";
+import Italy from "../assets/images/Italy.jpg";
 
 const locations = [
   {

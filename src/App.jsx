@@ -4,7 +4,6 @@ import Card from './components/Card/Card'
 import Footer from './components/Footer/Footer'
 import locations from './components'
 
-
 function App() {
   const TourList = locations.map(location => {
     return (
